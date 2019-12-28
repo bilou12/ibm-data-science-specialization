@@ -9,7 +9,7 @@ The location is important because:
 - it determines the supply and demand
 - it helps to define the best renting strategy (long-term vs short-term)
 
-All this combine, it influences the return on investment of the investor.
+All this combined influences the return on investment of the investor.
 
 We will in this project focus on the investor who is willing to rent a place for short-term let as this is a growing 
 market.
@@ -18,5 +18,5 @@ market.
 
 Investors who want to buy a house to rent with short-term let should consider:
 - supply and demand rentals --> this data can be acquired from Airbnb
-- the area with the most venues around --> available from the Foursquare API
 - the rate per night --> available with the Airbnb API
+- the area with the most venues around --> available from the Foursquare API
