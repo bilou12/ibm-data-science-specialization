@@ -7,7 +7,7 @@ Every investor need to get the right location to get a good return on investment
 The location is important because:
 - it can not be changed over time contrarily to the house itself which can be renovated
 - it determines the supply and demand
-- it helps to define the best renting strategy (long-term, airbnb)
+- it helps to define the best renting strategy (long-term vs short-term)
 
 All this combine, it influences the return on investment of the investor.
 
