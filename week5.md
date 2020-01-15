@@ -73,7 +73,7 @@ The k-mean is convenient because it :
 - easily adapts to new examples, 
 - generalizes to clusters of different shapes and sizes, such as elliptical clusters.
 
-## Result
+## Results
 
 When plotting the results on the map, we found out that the clusters were grouped according to their geography.
 
